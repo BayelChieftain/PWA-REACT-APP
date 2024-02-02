@@ -1,5 +1,5 @@
 # Weather Progressive Web Application
-![Weather Data]([https://i.imgur.com/3csowzj.png](https://scrnli.com/files/EHd2Z4qhIG9Es8))
+![Weather Data](https://scrnli.com/data/6/69/69a/69a7/69a76/69a765/69a765e0a354c6930892accc92083874206c2adc4f7e68fc40470d8417295131/193b45ced692c74a6.png)
 
 ### [Live Site](https://dynamic-duckanoo-c38dff.netlify.app/)
 
@@ -17,7 +17,7 @@ Welcome to our React Progressive Web App (PWA) project! This application harness
 
 ## Live Demo
 
-[[LIVE demo](https://dynamic-duckanoo-c38dff.netlify.app/)]
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue.svg)](https://dynamic-duckanoo-c38dff.netlify.app/)
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
